@@ -37,11 +37,13 @@ For simplicity, the application uses a static JSON file (`tasks.json`) placed in
 ## Setup and Run
 
 ### Prerequisites
-- Node.js (v14 or later)
+- React.js (v14 or later)
 - npm (v6 or later)
 
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone <YOUR_GIT_REPOSITORY_URL>
+   git clone "https://github.com/sricharan42/Todo-List.git"
    cd todo-list
+   npm install
+   npm start
